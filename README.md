@@ -1,1 +1,1 @@
-# cardiovascular-disease-detection
+# Cardiovascular-Disease-Detection
